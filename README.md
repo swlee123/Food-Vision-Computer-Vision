@@ -12,6 +12,6 @@ The model is trained on Google Colab notebook, some bugs may occur when running 
 There will be two model in the notebook, a feature extraction model from EfficeitNetB0 and a fine-tuned version.
 
 The version in Google Colab can't run properly due to Google Colab GPU policy, so I use kaggle to run it 
-https://www.kaggle.com/shangweilee/food-vision-project/edit
+https://www.kaggle.com/code/shangweilee/food-vision-project?scriptVersionId=114853282
 
 Good Luck Stay Strong
